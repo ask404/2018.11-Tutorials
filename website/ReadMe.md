@@ -6,3 +6,7 @@ This is a sample website made as part of
 check it out](http://learnenough.com/git-tutorial), and be sure to [join
 the email list](http://learnenough.com/#email_list) and [follow @learnenough
 ](http://twitter.com/learnenough) on Twitter.
+
+
+For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
